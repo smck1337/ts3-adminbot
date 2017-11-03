@@ -1,0 +1,8 @@
+## Beállítások, olvass el!
+## PHP5 telepítése
+## Az összes fájlnak 777 jogot adj
+## Minden beállítás a config.php-ban
+## BOT indítása => ./bot.sh start
+## BOT leállítása => ./bot.sh stop
+
+## endlesscs.hu
